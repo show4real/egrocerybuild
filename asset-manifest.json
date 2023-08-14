@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.1dddf13c.css",
-    "main.js": "./static/js/main.8dcc863d.js",
+    "main.css": "./static/css/main.71230731.css",
+    "main.js": "./static/js/main.5680d5bc.js",
     "static/media/cover-img.jpg": "./static/media/cover-img.87a5631078e7508882ce.jpg",
     "static/media/No_Transaction.svg": "./static/media/No_Transaction.1bfb78b00b1c0429ce517dc9e7dd254f.svg",
     "static/media/404.svg": "./static/media/404.5518ccfa3b856cf41cff2a8c10fd407b.svg",
@@ -19,11 +19,11 @@
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
     "static/media/ic_razorpay.svg": "./static/media/ic_razorpay.b0d530c618aa4b31f654915e496814b9.svg",
-    "main.1dddf13c.css.map": "./static/css/main.1dddf13c.css.map",
-    "main.8dcc863d.js.map": "./static/js/main.8dcc863d.js.map"
+    "main.71230731.css.map": "./static/css/main.71230731.css.map",
+    "main.5680d5bc.js.map": "./static/js/main.5680d5bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dddf13c.css",
-    "static/js/main.8dcc863d.js"
+    "static/css/main.71230731.css",
+    "static/js/main.5680d5bc.js"
   ]
 }
